@@ -1,0 +1,1 @@
+# This repository serves as a platform for learning Golang and developing projects using it.
